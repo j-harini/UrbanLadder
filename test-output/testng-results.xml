@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-18T15:43:46 IST" name="Default suite" finished-at="2024-06-18T15:45:55 IST" duration-ms="129092">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testNGTestRunner@19b843ba]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2024-06-18T15:43:46 IST" name="Default test" finished-at="2024-06-18T15:45:55 IST" duration-ms="129092">
+      <class name="testRunner.testNGTestRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:testRunner.testNGTestRunner@19b843ba]" started-at="2024-06-18T15:43:46 IST" name="setUpClass" finished-at="2024-06-18T15:43:55 IST" duration-ms="9141" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@4d4337f9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testNGTestRunner@19b843ba]" started-at="2024-06-18T15:43:55 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-06-18T15:44:23 IST" duration-ms="28046" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Search BookShelves and Display the Results"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Display Bookshelf"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testNGTestRunner@19b843ba]" started-at="2024-06-18T15:44:23 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-06-18T15:44:40 IST" duration-ms="16346" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Fill customize Gift Card with one invalid input"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Fill customize Gift Card"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testNGTestRunner@19b843ba]" started-at="2024-06-18T15:44:40 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-06-18T15:44:54 IST" duration-ms="14158" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Fill customize Gift Card with one invalid input"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Fill customize Gift Card"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testNGTestRunner@19b843ba]" started-at="2024-06-18T15:44:54 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-06-18T15:45:04 IST" duration-ms="10160" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Retrive all Sub-Menu items under Living and Store in a List."]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Retrive all Sub-Menu items."]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:testRunner.testNGTestRunner@19b843ba]" started-at="2024-06-18T15:45:04 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-06-18T15:45:32 IST" duration-ms="27523" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Fill Let Me Know fields if the product is out of stock"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Let Me Know Form"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:testRunner.testNGTestRunner@19b843ba]" started-at="2024-06-18T15:45:32 IST" name="tearDownClass" finished-at="2024-06-18T15:45:55 IST" duration-ms="23612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- testRunner.testNGTestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
