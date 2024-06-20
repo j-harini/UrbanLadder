@@ -346,3 +346,81 @@
 15:45:26.108 [main] INFO  - Enters Number from the Data Table in Feature File
 15:45:26.237 [main] INFO  - Enters Let Me Know Button after filling the fields
 15:45:26.410 [main] INFO  - Validating Success Message
+21:28:20.775 [main] INFO  - Checking whether Living Menu is Displayed
+21:28:21.045 [main] INFO  - Hovering Living Menu
+21:28:21.045 [main] INFO  - Checks whether Bookshelf is Displayed
+21:28:24.976 [main] INFO  - Selects BookShelf from Living Menu
+21:28:30.281 [main] INFO  - Handles PopUp
+21:28:30.918 [main] INFO  - Checks whether Price Filter is Displayed
+21:28:38.857 [main] INFO  - Sets Price Range below Rs.15000
+21:28:46.702 [main] INFO  - Selects Storage Type as Open
+21:28:47.054 [main] INFO  - Checks Out of Stock CheckBox
+21:28:47.598 [main] INFO  - Sorts Based on Highly Recommended
+21:28:48.091 [main] INFO  - Displays First Three Products and its Prices
+21:28:48.092 [main] INFO  - Displays First Three Products and its Prices
+21:28:48.170 [main] INFO  - Displays First Three Products and its Prices
+21:28:48.241 [main] INFO  - Displays First Three Products and its Prices
+21:29:21.686 [main] INFO  - Navigates Back to HomePage
+21:29:29.866 [main] INFO  - Hovers Living Menu
+21:29:35.427 [main] INFO  - Collects all SubMenu items in a List and Displaying the same
+21:29:48.949 [main] INFO  - Enters Search String Value from Feature File
+21:29:49.433 [main] INFO  - Selects DropDown
+21:29:49.786 [main] INFO  - Sorts Price from Low to High
+21:29:49.990 [main] INFO  - Handles PopUp
+21:30:00.111 [main] INFO  - Selects the Out of Stock Ribbon
+21:30:00.519 [main] INFO  - Enters Mail ID from the Data Table in Feature File
+21:30:05.777 [main] INFO  - Enters Number from the Data Table in Feature File
+21:30:05.980 [main] INFO  - Enters Let Me Know Button after filling the fields
+21:30:06.186 [main] INFO  - Validating Success Message
+21:32:08.678 [main] INFO  - Checking whether Living Menu is Displayed
+21:32:08.959 [main] INFO  - Hovering Living Menu
+21:32:08.960 [main] INFO  - Checks whether Bookshelf is Displayed
+21:32:11.849 [main] INFO  - Selects BookShelf from Living Menu
+21:32:17.130 [main] INFO  - Handles PopUp
+21:32:17.726 [main] INFO  - Checks whether Price Filter is Displayed
+21:32:25.602 [main] INFO  - Sets Price Range below Rs.15000
+21:32:33.645 [main] INFO  - Selects Storage Type as Open
+21:32:34.756 [main] INFO  - Checks Out of Stock CheckBox
+21:32:35.773 [main] INFO  - Sorts Based on Highly Recommended
+21:32:36.481 [main] INFO  - Displays First Three Products and its Prices
+21:32:36.482 [main] INFO  - Displays First Three Products and its Prices
+21:32:36.560 [main] INFO  - Displays First Three Products and its Prices
+21:32:36.624 [main] INFO  - Displays First Three Products and its Prices
+21:33:09.096 [main] INFO  - Navigates Back to HomePage
+21:33:16.514 [main] INFO  - Hovers Living Menu
+21:33:22.067 [main] INFO  - Collects all SubMenu items in a List and Displaying the same
+21:33:35.337 [main] INFO  - Enters Search String Value from Feature File
+21:33:36.007 [main] INFO  - Selects DropDown
+21:33:36.251 [main] INFO  - Sorts Price from Low to High
+21:33:36.485 [main] INFO  - Handles PopUp
+21:33:46.568 [main] INFO  - Selects the Out of Stock Ribbon
+21:33:46.940 [main] INFO  - Enters Mail ID from the Data Table in Feature File
+21:33:52.121 [main] INFO  - Enters Number from the Data Table in Feature File
+21:33:52.280 [main] INFO  - Enters Let Me Know Button after filling the fields
+21:33:52.468 [main] INFO  - Validating Success Message
+09:04:41.081 [main] INFO  - Checking whether Living Menu is Displayed
+09:04:41.335 [main] INFO  - Hovering Living Menu
+09:04:41.335 [main] INFO  - Checks whether Bookshelf is Displayed
+09:04:43.200 [main] INFO  - Selects BookShelf from Living Menu
+09:04:48.418 [main] INFO  - Handles PopUp
+09:04:49.082 [main] INFO  - Checks whether Price Filter is Displayed
+09:04:56.893 [main] INFO  - Sets Price Range below Rs.15000
+09:05:04.720 [main] INFO  - Selects Storage Type as Open
+09:05:05.074 [main] INFO  - Checks Out of Stock CheckBox
+09:05:05.584 [main] INFO  - Sorts Based on Highly Recommended
+09:05:06.002 [main] INFO  - Displays First Three Products and its Prices
+09:05:06.002 [main] INFO  - Displays First Three Products and its Prices
+09:05:06.068 [main] INFO  - Displays First Three Products and its Prices
+09:05:06.139 [main] INFO  - Displays First Three Products and its Prices
+09:05:36.411 [main] INFO  - Navigates Back to HomePage
+09:05:44.825 [main] INFO  - Hovers Living Menu
+09:05:50.364 [main] INFO  - Collects all SubMenu items in a List and Displaying the same
+09:06:03.363 [main] INFO  - Enters Search String Value from Feature File
+09:06:03.744 [main] INFO  - Selects DropDown
+09:06:03.941 [main] INFO  - Sorts Price from Low to High
+09:06:04.058 [main] INFO  - Handles PopUp
+09:06:14.170 [main] INFO  - Selects the Out of Stock Ribbon
+09:06:14.562 [main] INFO  - Enters Mail ID from the Data Table in Feature File
+09:06:19.759 [main] INFO  - Enters Number from the Data Table in Feature File
+09:06:19.921 [main] INFO  - Enters Let Me Know Button after filling the fields
+09:06:20.092 [main] INFO  - Validating Success Message

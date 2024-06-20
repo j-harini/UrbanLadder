@@ -22,10 +22,12 @@ public class Hooks
 	{
 		BaseClass.initializeBrowser();
 	}
+	
 	public void checkFailed(Scenario scenario)
 	{
 		//validate if scenario has failed
-		if(scenario.isFailed()) {
+		if(scenario.isFailed()) 
+		{
 			final byte[] screenshot = ((TakesScreenshot) BaseClass.getDriver()).getScreenshotAs(OutputType.BYTES);
 			scenario.attach(screenshot, "image/png", "Failed Test");
 		}	
@@ -37,8 +39,8 @@ public class Hooks
 		File screenshot = ((TakesScreenshot) BaseClass.getDriver() ).getScreenshotAs(OutputType.FILE);
 		byte[] fileContent = FileUtils.readFileToByteArray(screenshot);
 		scenario.attach(fileContent, "image/png", "screenshot");
- 
 	}
+	
 	@AfterAll
 	public static void tearDown() 
 	{		

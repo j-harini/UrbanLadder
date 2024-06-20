@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="108.526" tests="5" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="138.934" tests="5" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Users\2320144\Downloads\eclipse-java-2023-03-R-win32-x86_64\eclipse\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.11.v20240426-1830\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\2320144\AppData\Local\Temp\surefire8407998671398212461\surefirebooter-20240618142445341_3.jar C:\Users\2320144\AppData\Local\Temp\surefire8407998671398212461 2024-06-18T14-24-45_115-jvmRun1 surefire-20240618142445341_1tmp surefire_0-20240618142445341_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\2320144\AppData\Local\Temp\surefire3303650783220033844\surefirebooter-20240619090423132_3.jar C:\Users\2320144\AppData\Local\Temp\surefire3303650783220033844 2024-06-19T09-04-22_818-jvmRun1 surefire-20240619090423132_1tmp surefire_0-20240619090423132_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\2320144\eclipse-workspace\cucumberproject\target\test-classes;C:\Users\2320144\eclipse-workspace\cucumberproject\target\classes;C:\Users\2320144\.m2\repository\io\cucumber\cucumber-java\7.14.0\cucumber-java-7.14.0.jar;C:\Users\2320144\.m2\repository\io\cucumber\cucumber-core\7.14.0\cucumber-core-7.14.0.jar;C:\Users\2320144\.m2\repository\io\cucumber\cucumber-gherkin\7.14.0\cucumber-gherkin-7.14.0.jar;C:\Users\2320144\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.14.0\cucumber-gherkin-messages-7.14.0.jar;C:\Users\2320144\.m2\repository\io\cucumber\gherkin\26.2.0\gherkin-26.2.0.jar;C:\Users\2320144\.m2\repository\io\cucumber\messages\22.0.0\messages-22.0.0.jar;C:\Users\2320144\.m2\repository\io\cucumber\tag-expressions\5.0.6\tag-expressions-5.0.6.jar;C:\Users\2320144\.m2\repository\io\cucumber\cucumber-expressions\16.1.2\cucumber-expressions-16.1.2.jar;C:\Users\2320144\.m2\repository\io\cucumber\datatable\7.14.0\datatable-7.14.0.jar;C:\Users\2320144\.m2\repository\io\cucumber\cucumber-plugin\7.14.0\cucumber-plugin-7.14.0.jar;C:\Users\2320144\.m2\repository\io\cucumber\docstring\7.14.0\docstring-7.14.0.jar;C:\Users\2320144\.m2\repository\io\cucumber\html-formatter\20.4.0\html-formatter-20.4.0.jar;C:\Users\2320144\.m2\repository\io\cucumber\junit-xml-formatter\0.2.0\junit-xml-formatter-0.2.0.jar;C:\Users\2320144\.m2\repository\io\cucumber\ci-environment\9.2.0\ci-environment-9.2.0.jar;C:\Users\2320144\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\2320144\.m2\repository\io\cucumber\cucumber-testng\7.14.0\cucumber-testng-7.14.0.jar;C:\Users\2320144\.m2\repository\io\cucumber\cucumber-junit\7.18.0\cucumber-junit-7.18.0.jar;C:\Users\2320144\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\2320144\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\2320144\.m2\repository\tech\grasshopper\extentreports-cucumber7-adapter\1.14.0\extentreports-cucumber7-adapter-1.14.0.jar;C:\Users\2320144\.m2\repository\tech\grasshopper\extent-pdf-report\2.12.0\extent-pdf-report-2.12.0.jar;C:\Users\2320144\.m2\repository\tech\grasshopper\cucumber-pdf-report\2.14.0\cucumber-pdf-report-2.14.0.jar;C:\Users\2320144\.m2\repository\org\apache\pdfbox\pdfbox\2.0.26\pdfbox-2.0.26.jar;C:\Users\2320144\.m2\repository\org\apache\pdfbox\fontbox\2.0.26\fontbox-2.0.26.jar;C:\Users\2320144\.m2\repository\org\knowm\xchart\xchart\3.8.0\xchart-3.8.0.jar;C:\Users\2320144\.m2\repository\de\erichseifert\vectorgraphics2d\VectorGraphics2D\0.13\VectorGraphics2D-0.13.jar;C:\Users\2320144\.m2\repository\de\rototor\pdfbox\graphics2d\0.30\graphics2d-0.30.jar;C:\Users\2320144\.m2\repository\com\madgag\animated-gif-lib\1.4\animated-gif-lib-1.4.jar;C:\Users\2320144\.m2\repository\org\yaml\snakeyaml\2.0\snakeyaml-2.0.jar;C:\Users\2320144\.m2\repository\tech\grasshopper\table-layout\1.5.1\table-layout-1.5.1.jar;C:\Users\2320144\.m2\repository\tech\grasshopper\rest-assured-cucumber-pdf-report\1.5.0\rest-assured-cucumber-pdf-report-1.5.0.jar;C:\Users\2320144\.m2\repository\org\jsoup\jsoup\1.15.3\jsoup-1.15.3.jar;C:\Users\2320144\.m2\repository\com\aventstack\klov-reporter\5.1.0\klov-reporter-5.1.0.jar;C:\Users\2320144\.m2\repository\org\mongodb\mongodb-driver\3.6.4\mongodb-driver-3.6.4.jar;C:\Users\2320144\.m2\repository\org\mongodb\mongodb-driver-core\3.6.4\mongodb-driver-core-3.6.4.jar;C:\Users\2320144\.m2\repository\org\mongodb\bson\3.6.4\bson-3.6.4.jar;C:\Users\2320144\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\2320144\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\2320144\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\2320144\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\2320144\.m2\repository\tech\grasshopper\htmlextentreporter\1.1.0\htmlextentreporter-1.1.0.jar;C:\Users\2320144\.m2\repository\tech\grasshopper\extent-excel-report\1.4.0\extent-excel-report-1.4.0.jar;C:\Users\2320144\.m2\repository\com\aventstack\extentreports\5.1.1\extentreports-5.1.1.jar;C:\Users\2320144\.m2\repository\io\reactivex\rxjava3\rxjava\3.1.6\rxjava-3.1.6.jar;C:\Users\2320144\.m2\repository\org\reactivestreams\reactive-streams\1.0.4\reactive-streams-1.0.4.jar;C:\Users\2320144\.m2\repository\org\freemarker\freemarker\2.3.32\freemarker-2.3.32.jar;C:\Users\2320144\.m2\repository\org\projectlombok\lombok\1.18.26\lombok-1.18.26.jar;C:\Users\2320144\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\2320144\.m2\repository\io\github\bonigarcia\webdrivermanager\5.7.0\webdrivermanager-5.7.0.jar;C:\Users\2320144\.m2\repository\org\slf4j\slf4j-api\2.0.12\slf4j-api-2.0.12.jar;C:\Users\2320144\.m2\repository\com\github\docker-java\docker-java\3.3.5\docker-java-3.3.5.jar;C:\Users\2320144\.m2\repository\com\github\docker-java\docker-java-core\3.3.5\docker-java-core-3.3.5.jar;C:\Users\2320144\.m2\repository\com\github\docker-java\docker-java-api\3.3.5\docker-java-api-3.3.5.jar;C:\Users\2320144\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.10.3\jackson-annotations-2.10.3.jar;C:\Users\2320144\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.10.3\jackson-databind-2.10.3.jar;C:\Users\2320144\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.10.3\jackson-core-2.10.3.jar;C:\Users\2320144\.m2\repository\org\bouncycastle\bcpkix-jdk18on\1.76\bcpkix-jdk18on-1.76.jar;C:\Users\2320144\.m2\repository\org\bouncycastle\bcprov-jdk18on\1.76\bcprov-jdk18on-1.76.jar;C:\Users\2320144\.m2\repository\org\bouncycastle\bcutil-jdk18on\1.76\bcutil-jdk18on-1.76.jar;C:\Users\2320144\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\2320144\.m2\repository\com\github\docker-java\docker-java-transport-httpclient5\3.3.5\docker-java-transport-httpclient5-3.3.5.jar;C:\Users\2320144\.m2\repository\com\github\docker-java\docker-java-transport\3.3.5\docker-java-transport-3.3.5.jar;C:\Users\2320144\.m2\repository\net\java\dev\jna\jna\5.13.0\jna-5.13.0.jar;C:\Users\2320144\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\2320144\.m2\repository\org\apache\commons\commons-lang3\3.14.0\commons-lang3-3.14.0.jar;C:\Users\2320144\.m2\repository\org\apache\commons\commons-compress\1.26.0\commons-compress-1.26.0.jar;C:\Users\2320144\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.2.1\httpclient5-5.2.1.jar;C:\Users\2320144\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.2\httpcore5-5.2.jar;C:\Users\2320144\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.2\httpcore5-h2-5.2.jar;C:\Users\2320144\.m2\repository\org\seleniumhq\selenium\selenium-java\4.18.1\selenium-java-4.18.1.jar;C:\Users\2320144\.m2\repository\org\seleniumhq\selenium\selenium-api\4.18.1\selenium-api-4.18.1.jar;C:\Users\2320144\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.18.1\selenium-chrome-driver-4.18.1.jar;C:\Users\2320144\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\2320144\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.18.1\selenium-chromium-driver-4.18.1.jar;C:\Users\2320144\.m2\repository\org\seleniumhq\selenium\selenium-json\4.18.1\selenium-json-4.18.1.jar;C:\Users\2320144\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.18.1\selenium-manager-4.18.1.jar;C:\Users\2320144\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v120\4.18.1\selenium-devtools-v120-4.18.1.jar;C:\Users\2320144\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v121\4.18.1\selenium-devtools-v121-4.18.1.jar;C:\Users\2320144\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v122\4.18.1\selenium-devtools-v122-4.18.1.jar;C:\Users\2320144\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.18.1\selenium-devtools-v85-4.18.1.jar;C:\Users\2320144\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.18.1\selenium-edge-driver-4.18.1.jar;C:\Users\2320144\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.18.1\selenium-firefox-driver-4.18.1.jar;C:\Users\2320144\.m2\repository\org\seleniumhq\selenium\selenium-http\4.18.1\selenium-http-4.18.1.jar;C:\Users\2320144\.m2\repository\dev\failsafe\failsafe\3.3.2\failsafe-3.3.2.jar;C:\Users\2320144\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.18.1\selenium-ie-driver-4.18.1.jar;C:\Users\2320144\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.18.1\selenium-remote-driver-4.18.1.jar;C:\Users\2320144\.m2\repository\com\google\guava\guava\33.0.0-jre\guava-33.0.0-jre.jar;C:\Users\2320144\.m2\repository\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar;C:\Users\2320144\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\2320144\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\2320144\.m2\repository\org\checkerframework\checker-qual\3.41.0\checker-qual-3.41.0.jar;C:\Users\2320144\.m2\repository\com\google\errorprone\error_prone_annotations\2.23.0\error_prone_annotations-2.23.0.jar;C:\Users\2320144\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar;C:\Users\2320144\.m2\repository\io\opentelemetry\semconv\opentelemetry-semconv\1.23.1-alpha\opentelemetry-semconv-1.23.1-alpha.jar;C:\Users\2320144\.m2\repository\io\opentelemetry\opentelemetry-api\1.35.0\opentelemetry-api-1.35.0.jar;C:\Users\2320144\.m2\repository\io\opentelemetry\opentelemetry-context\1.35.0\opentelemetry-context-1.35.0.jar;C:\Users\2320144\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.35.0\opentelemetry-exporter-logging-1.35.0.jar;C:\Users\2320144\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.35.0\opentelemetry-sdk-common-1.35.0.jar;C:\Users\2320144\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.35.0\opentelemetry-sdk-extension-autoconfigure-spi-1.35.0.jar;C:\Users\2320144\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.35.0\opentelemetry-sdk-extension-autoconfigure-1.35.0.jar;C:\Users\2320144\.m2\repository\io\opentelemetry\opentelemetry-api-events\1.35.0-alpha\opentelemetry-api-events-1.35.0-alpha.jar;C:\Users\2320144\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.35.0\opentelemetry-sdk-trace-1.35.0.jar;C:\Users\2320144\.m2\repository\io\opentelemetry\opentelemetry-extension-incubator\1.35.0-alpha\opentelemetry-extension-incubator-1.35.0-alpha.jar;C:\Users\2320144\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.35.0\opentelemetry-sdk-1.35.0.jar;C:\Users\2320144\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.35.0\opentelemetry-sdk-metrics-1.35.0.jar;C:\Users\2320144\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.35.0\opentelemetry-sdk-logs-1.35.0.jar;C:\Users\2320144\.m2\repository\net\bytebuddy\byte-buddy\1.14.12\byte-buddy-1.14.12.jar;C:\Users\2320144\.m2\repository\org\seleniumhq\selenium\selenium-os\4.18.1\selenium-os-4.18.1.jar;C:\Users\2320144\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\2320144\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.18.1\selenium-safari-driver-4.18.1.jar;C:\Users\2320144\.m2\repository\org\seleniumhq\selenium\selenium-support\4.18.1\selenium-support-4.18.1.jar;C:\Users\2320144\.m2\repository\org\testng\testng\7.8.0\testng-7.8.0.jar;C:\Users\2320144\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\2320144\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\2320144\.m2\repository\org\apache\poi\poi\5.2.5\poi-5.2.5.jar;C:\Users\2320144\.m2\repository\commons-codec\commons-codec\1.16.0\commons-codec-1.16.0.jar;C:\Users\2320144\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\2320144\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\2320144\.m2\repository\commons-io\commons-io\2.15.0\commons-io-2.15.0.jar;C:\Users\2320144\.m2\repository\com\zaxxer\SparseBitSet\1.3\SparseBitSet-1.3.jar;C:\Users\2320144\.m2\repository\org\apache\poi\poi-ooxml\5.2.5\poi-ooxml-5.2.5.jar;C:\Users\2320144\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.5\poi-ooxml-lite-5.2.5.jar;C:\Users\2320144\.m2\repository\org\apache\xmlbeans\xmlbeans\5.2.0\xmlbeans-5.2.0.jar;C:\Users\2320144\.m2\repository\com\github\virtuald\curvesapi\1.08\curvesapi-1.08.jar;C:\Users\2320144\.m2\repository\org\apache\logging\log4j\log4j-core\2.20.0\log4j-core-2.20.0.jar;C:\Users\2320144\.m2\repository\org\apache\logging\log4j\log4j-api\2.20.0\log4j-api-2.20.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\2320144\AppData\Local\Temp\surefire8407998671398212461\surefirebooter-20240618142445341_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\2320144\AppData\Local\Temp\surefire3303650783220033844\surefirebooter-20240619090423132_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.11+9"/>
@@ -58,46 +58,90 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="runScenario[&quot;Search BookShelves and Display the Results&quot;, &quot;Display Bookshelf&quot;](1)" classname="testRunner.testNGTestRunner" time="26.56">
+  <testcase name="runScenario[&quot;Search BookShelves and Display the Results&quot;, &quot;Display Bookshelf&quot;](1)" classname="testRunner.testNGTestRunner" time="26.695">
     <system-out><![CDATA[OPENING CHROME BROWSER
 Navigated to :https://www.urbanladder.com/
+
+Scenario: Search BookShelves and Display the Results # Features/displayBookshelf.feature:3
 ****************************
 TEST SCENARIO STARTED
 
 -> Bookshelf is selected from the Living Menu.
 Popup Found:true
 -> Popup is closed.
+  Given Bookshelf is selected from the submenu       # stepDefinitions.displayBookshelfSteps.bookshelf_is_selected_from_the_submenu()
+
+    Embedding screenshot [image/png 834334 bytes]
+
 -> Price is set below Rs.15000
+  When Price Range is set below Rs15000              # stepDefinitions.displayBookshelfSteps.price_range_is_set_below_rs15000()
+
+    Embedding screenshot [image/png 342143 bytes]
+
 -> Storage type Open is selected.
+  And Select Storage Type (open)                     # stepDefinitions.displayBookshelfSteps.select_storage_type_open()
+
+    Embedding screenshot [image/png 391622 bytes]
+
 -> Excluded out of stock.
+  And Exclude out of stock                           # stepDefinitions.displayBookshelfSteps.exclude_out_of_stock()
+
+    Embedding screenshot [image/png 388125 bytes]
+
 -> Bookshelves are sorted by:Recommended
+  And Sort By Recommended                            # stepDefinitions.displayBookshelfSteps.sort_by_recommended()
+
+    Embedding screenshot [image/png 393955 bytes]
+
 -> Displaying the name & price of first 3 Bookshelves below Rs. 15000, with Storage type as open & excluded out of stock
 1) Product Name: Babylon Solid Wood Bookshelf In Walnut Finish
 Product Price: ₹4,619
 2) Product Name: Megan Engineered Wood Bookshelf In Classic Walnut Finish
 Product Price: ₹2,815
-3) Product Name: Megan Engineered Wood Bookshelf In Classic Walnut Finish
-Product Price: ₹4,031
+3) Product Name: Rustic Engineered Wood Bookshelf In Asian Walnut Finish
+Product Price: ₹6,546
 TEST SCENARIO COMPLETED
 ****************************
+  Then Print all details in console output           # stepDefinitions.displayBookshelfSteps.print_all_details_in_console_output()
+
+    Embedding screenshot [image/png 393955 bytes]
+
 ]]></system-out>
     <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
 SLF4J(W): Defaulting to no-operation (NOP) logger implementation
 SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
-Jun 18, 2024 2:24:54 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Jun 19, 2024 9:04:36 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find an exact match for CDP version 123, returning the closest version; found: 122; Please update to a Selenium version that supports CDP version 123
 ]]></system-err>
   </testcase>
-  <testcase name="runScenario[&quot;Fill customize Gift Card with one invalid input&quot;, &quot;Fill customize Gift Card&quot;](2)" classname="testRunner.testNGTestRunner" time="15.672">
-    <system-out><![CDATA[****************************
+  <testcase name="runScenario[&quot;Fill customize Gift Card with one invalid input&quot;, &quot;Fill customize Gift Card&quot;](2)" classname="testRunner.testNGTestRunner" time="15.733">
+    <system-out><![CDATA[
+Scenario Outline: Fill customize Gift Card with one invalid input  # Features/giftCard.feature:23
+****************************
 TEST SCENARIO STARTED
 
 -> Gift Cards Label is Selected and Page is Navigated
+  Given Select Gift Card Label                                     # stepDefinitions.giftCardSteps.select_gift_card_label()
+
+    Embedding screenshot [image/png 1180038 bytes]
+
 ->Birthday/Anniversary Occasion is selected
+  When Select Birthday/Anniversary                                 # stepDefinitions.giftCardSteps.select_birthday_anniversary()
+
+    Embedding screenshot [image/png 343846 bytes]
+
 -> Amount is Selected
 -> Month is picked
 -> Date is picked
+  And Choose Amount, Date and Time                                 # stepDefinitions.giftCardSteps.choose_amount_date_and_time()
+
+    Embedding screenshot [image/png 299850 bytes]
+
 -> Entered All Fields
+  And Fill the details with excel sheet "GiftCard" and excel row 0 # stepDefinitions.giftCardSteps.fill_the_details_with_excel_sheet_and_excel_row(java.lang.String,int)
+
+    Embedding screenshot [image/png 1190662 bytes]
+
 -> Inputs are Invalid
 -> Displaying Error Message
 Please include an '@' in the email address. 'harinigmail.com' is missing an '@'.
@@ -105,18 +149,40 @@ Please include an '@' in the email address. 'harinigmail.com' is missing an '@'.
 Result Updated in the Row: 1, Column: 9
 TEST SCENARIO COMPLETED
 ****************************
+  Then Validate the Displayed Details "Invalid"                    # stepDefinitions.giftCardSteps.validate_the_displayed_details(java.lang.String)
+
+    Embedding screenshot [image/png 1190662 bytes]
+
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Fill customize Gift Card with one invalid input&quot;, &quot;Fill customize Gift Card&quot;](3)" classname="testRunner.testNGTestRunner" time="14.033">
-    <system-out><![CDATA[****************************
+  <testcase name="runScenario[&quot;Fill customize Gift Card with one invalid input&quot;, &quot;Fill customize Gift Card&quot;](3)" classname="testRunner.testNGTestRunner" time="14.101">
+    <system-out><![CDATA[
+Scenario Outline: Fill customize Gift Card with one invalid input  # Features/giftCard.feature:24
+****************************
 TEST SCENARIO STARTED
 
 -> Gift Cards Label is Selected and Page is Navigated
+  Given Select Gift Card Label                                     # stepDefinitions.giftCardSteps.select_gift_card_label()
+
+    Embedding screenshot [image/png 1180038 bytes]
+
 ->Birthday/Anniversary Occasion is selected
+  When Select Birthday/Anniversary                                 # stepDefinitions.giftCardSteps.select_birthday_anniversary()
+
+    Embedding screenshot [image/png 343939 bytes]
+
 -> Amount is Selected
 -> Month is picked
 -> Date is picked
+  And Choose Amount, Date and Time                                 # stepDefinitions.giftCardSteps.choose_amount_date_and_time()
+
+    Embedding screenshot [image/png 328986 bytes]
+
 -> Entered All Fields
+  And Fill the details with excel sheet "GiftCard" and excel row 1 # stepDefinitions.giftCardSteps.fill_the_details_with_excel_sheet_and_excel_row(java.lang.String,int)
+
+    Embedding screenshot [image/png 1192134 bytes]
+
 -> Inputs are Valid
 -> No error. Form is filled
 
@@ -124,14 +190,28 @@ TEST SCENARIO STARTED
 Result Updated in the Row: 2, Column: 9
 TEST SCENARIO COMPLETED
 ****************************
+  Then Validate the Displayed Details "Valid"                      # stepDefinitions.giftCardSteps.validate_the_displayed_details(java.lang.String)
+
+    Embedding screenshot [image/png 1192134 bytes]
+
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Retrive all Sub-Menu items under Living and Store in a List.&quot;, &quot;Retrive all Sub-Menu items.&quot;](4)" classname="testRunner.testNGTestRunner" time="11.545">
-    <system-out><![CDATA[****************************
+  <testcase name="runScenario[&quot;Retrive all Sub-Menu items under Living and Store in a List.&quot;, &quot;Retrive all Sub-Menu items.&quot;](4)" classname="testRunner.testNGTestRunner" time="20.459">
+    <system-out><![CDATA[
+Scenario: Retrive all Sub-Menu items under Living and Store in a List. # Features/headerMenu.feature:2
+****************************
 TEST SCENARIO STARTED
 Navigated Back to Homepage
+  Given Navigate to Homepage of the Urban Ladder Application           # stepDefinitions.headerMenuSteps.navigate_to_homepage_of_the_urban_ladder_application()
+
+    Embedding screenshot [image/png 1011822 bytes]
+
 
 -> Hovering over LIVING to collect all menu items
+
+  When Living Menu is hovered                                          # stepDefinitions.headerMenuSteps.living_menu_is_hovered()
+
+    Embedding screenshot [image/png 501570 bytes]
 
 Categories:Chair
 ->Lounge Chairs
@@ -159,20 +239,44 @@ Categories:Living Storage
 ->Entryway & Foyer
 ->Room Divider
 ->Living Room Sets
+  And all submenu items are collected in a list                        # stepDefinitions.headerMenuSteps.all_submenu_items_are_collected_in_a_list()
+
+    Embedding screenshot [image/png 739923 bytes]
+
 
 ->From Collections, retrieved all sub-menu items under Being-At-home and stored in a List; Displayed the same
 TEST SCENARIO COMPLETED
 ****************************
+  Then display the items                                               # stepDefinitions.headerMenuSteps.display_the_items()
+
+    Embedding screenshot [image/png 739923 bytes]
+
 ]]></system-out>
   </testcase>
-  <testcase name="runScenario[&quot;Fill Let Me Know fields if the product is out of stock&quot;, &quot;Let Me Know Form&quot;](5)" classname="testRunner.testNGTestRunner" time="23.585">
-    <system-out><![CDATA[****************************
+  <testcase name="runScenario[&quot;Fill Let Me Know fields if the product is out of stock&quot;, &quot;Let Me Know Form&quot;](5)" classname="testRunner.testNGTestRunner" time="28.657">
+    <system-out><![CDATA[
+Scenario: Fill Let Me Know fields if the product is out of stock # Features/soldout.feature:3
+****************************
 TEST SCENARIO STARTED
 -> Searching Office Desk
+  Given Search "Office Desk" in the Homepage                     # stepDefinitions.letMeKnowFormSteps.search_in_the_homepage(java.lang.String)
+
+    Embedding screenshot [image/png 417392 bytes]
+
 -> Popup Found:false
+  When item is Out of Stock                                      # stepDefinitions.letMeKnowFormSteps.item_is_out_of_stock()
+
+    Embedding screenshot [image/png 586292 bytes]
+
 -> Message: Thank You. We'Ll Keep You Posted.
 ****************************
 TEST SCENARIO COMPLETED
+  Then Fill the Let Me Know Form with below detail.              # stepDefinitions.letMeKnowFormSteps.fill_the_let_me_know_form_with_below_detail(io.cucumber.datatable.DataTable)
+    | email  | harini@gmail.com |
+    | number | 9876543210       |
+
+    Embedding screenshot [image/png 624575 bytes]
+
 ]]></system-out>
   </testcase>
 </testsuite>

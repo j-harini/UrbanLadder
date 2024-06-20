@@ -34,7 +34,7 @@ public class HomePage
 	}
 	
 	
-	//Locators for Elements needed to be accessed in the home page.
+	//LOCATORS
 	
 	//Living Menu
 	@FindBy(xpath="//span[contains(text(),'Living') and @class=\"topnav_itemname\"]") 
@@ -96,7 +96,7 @@ public class HomePage
 	public boolean checkLivingMenu()
 	{
 		 // Waits 10s
-		wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+		wait = new WebDriverWait(driver, Duration.ofSeconds(30));
 		logger.info("Checking whether Living Menu is Displayed");
 		return Living_menu.isDisplayed();
 	}

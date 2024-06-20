@@ -82,6 +82,12 @@ public class LetMeKnowForm
 	//Enters Search value into Search Box
 	public void enterSearchValue(String search)
 	{
+		try {
+			Thread.sleep(5000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		BaseClass.highlightElement(search_box);
 		search_box.sendKeys(search);
 	}

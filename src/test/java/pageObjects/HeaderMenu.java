@@ -82,6 +82,12 @@ public class HeaderMenu
 	{
 		logger.info("Hovers Living Menu");
 		BaseClass.highlightElement(Living_menu);
+		try {
+			Thread.sleep(5000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		hover = new Actions(driver);
 		hover.moveToElement(Living_menu).build().perform();
 		System.out.println();
@@ -106,8 +112,12 @@ public class HeaderMenu
 			}
 			
 		}
-		wait = new WebDriverWait(driver,Duration.ofSeconds(30));
-		
+		try {
+			Thread.sleep(5000);
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 
 }
