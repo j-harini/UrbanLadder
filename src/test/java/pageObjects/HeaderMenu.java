@@ -53,26 +53,28 @@ public class HeaderMenu
 	{
 		logger.info("Navigates Back to HomePage");
 		driver.navigate().back();
-		driver.navigate().back();
-		driver.navigate().back();
-		driver.navigate().back();
-		
-		url = driver.getCurrentUrl();
-		if(url.equals(homePageURL))
-		{
-			System.out.println("Navigated Back to Homepage");
-		}
-		else 
-		{
-			driver.navigate().back();
-			System.out.println("Navigated Back to Homepage");
-		}
+//		driver.navigate().back();
+//		driver.navigate().back();
+//		driver.navigate().back();
+		driver.findElement(By.xpath("//figure[@class='header__topBar_logo']//*[name()='svg']")).click();
+//		url = driver.getCurrentUrl();
+//		if(url.equals(homePageURL))
+//		{
+//			System.out.println("Navigated Back to Homepage");
+//		}
+//		else 
+//		{
+//			driver.navigate().back();
+//			System.out.println("Navigated Back to Homepage");
+//		}
 		try {
 			Thread.sleep(5000);
-		} catch (InterruptedException e) {
+		} catch (InterruptedException e)
+		{
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		
 		
 
 	}

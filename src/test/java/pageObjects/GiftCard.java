@@ -111,7 +111,7 @@ public class GiftCard
 	public void selectGiftCard()
 	{
 		try {
-			Thread.sleep(5000);
+			Thread.sleep(8000);
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
@@ -233,7 +233,7 @@ public class GiftCard
 		BaseClass.highlightElement(Confirm_button);
 		Confirm_button.click();
 		System.out.println("-> Entered All Fields");
-		wait = new WebDriverWait(driver,Duration.ofSeconds(10));
+		wait = new WebDriverWait(driver,Duration.ofSeconds(20));
 		jse = (JavascriptExecutor)driver;
 		jse.executeScript("window.scrollTo(0,0)");
 		
