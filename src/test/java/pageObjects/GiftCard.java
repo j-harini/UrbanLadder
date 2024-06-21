@@ -110,12 +110,12 @@ public class GiftCard
 	//Selects Gift Card from Header
 	public void selectGiftCard()
 	{
-		try {
-			Thread.sleep(8000);
-		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+//		try {
+//			Thread.sleep(8000);
+//		} catch (InterruptedException e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
 		BaseClass.highlightElement(giftCard_label);
 		((JavascriptExecutor) driver).executeScript("arguments[0].click();", giftCard_label);
 		System.out.println();
